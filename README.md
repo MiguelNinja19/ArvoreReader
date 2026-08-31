@@ -29,7 +29,7 @@ fetch(`https://raw.githubusercontent.com/MiguelNinja19/ArvoreReader/refs/heads/m
 2. No campo de URL, cole o código JavaScript acima
 3. Salve e clique nele quando estiver na página de leitura
 
-#### UserScript
+## UserScript
 
 ### Método 3: Copiar Conteúdo (SEM SYNC) 
 1. Baixe as extensões que suportem userscipts como Tempermonkey ([Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/))
