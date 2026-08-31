@@ -20,7 +20,7 @@
 1. Acesse um livro na plataforma Árvore
 2. Na barra de endereços, digite: `javascript:` e cole o código abaixo:
 ```js
-fetch(`https://raw.githubusercontent.com/JuniorSchueller/ArvoreReader/refs/heads/main/script.js`).then(r => r.text()).then(r => eval(r));
+fetch(`https://raw.githubusercontent.com/MiguelNinja19/ArvoreReader/refs/heads/main/script.js`).then(r => r.text()).then(r => eval(r));
 ```
 3. Pressione Enter
 
@@ -28,6 +28,16 @@ fetch(`https://raw.githubusercontent.com/JuniorSchueller/ArvoreReader/refs/heads
 1. Crie um novo favorito/bookmark
 2. No campo de URL, cole o código JavaScript acima
 3. Salve e clique nele quando estiver na página de leitura
+
+#### UserScript
+
+### Método 3: Copiar Conteúdo (SEM SYNC) 
+1. Baixe as extensões que suportem userscipts como Tempermonkey ([Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/))
+2. Copie o conteúdo de: `https://raw.githubusercontent.com/MiguelNinja19/ArvoreReader/refs/heads/main/userscript.js` depois no Tempermonkey clique em: "Adicionar novo script..." e apague o conteudo padrão e cole o conteúdo que foi copiado depois disso clique em "Arquivo" depois salvar.
+
+### Método 4: GitHub Gist (COM SYNC)
+1. Baixe as extensões que suportem userscipts. ex: Tempermonkey ([Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/))
+2. Acesse: `https://gist.github.com/MiguelNinja19/60dfa522babbe0a2735a4f74c5309515` em seguida clique em "Raw" depois adicione.
 
 ## 🛠️ Configuração
 
