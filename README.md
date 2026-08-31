@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/9n0wbej.png" width="150" alt="Ícone do ÁrvoreReader">
+  <img src="https://github.com/MiguelNinja19/ArvoreReader/blob/main/icone%20arvorereader.png" width="150" alt="Ícone do ÁrvoreReader">
 </p>
 <h1 align="center">ÁrvoreReader</h1>
 
