@@ -7,7 +7,7 @@
 // @description:pt-BR  Leitor automático para a plataforma Árvore (e-reader.arvore.com.br). Avança as páginas automaticamente com intervalos aleatórios configuráveis entre um tempo mínimo e máximo.
 // @author       JuniorSchueller
 // @match        https://e-reader.arvore.com.br/*
-// @icon         https://i.imgur.com/9n0wbej.png
+// @icon         https://github.com/MiguelNinja19/ArvoreReader/blob/main/icone%20arvorereader.png
 // @run-at       document-idle
 // @noframes
 // @require      https://cdn.jsdelivr.net/npm/toastify-js@1.12.0/src/toastify.min.js
